@@ -1,4 +1,7 @@
-## Proteomics favourites of 2015
+---
+layout: post
+title: Proteomics favourites from 2015
+---
 
 Unlike 2014, 2015 got off to something of a slow start in the proteomics department until a sudden crop of excellent papers appeared in autumn. All of these gave me lots to think about so picking a favourite was tricky. Actually, not really, I have something in mind but I’m trying to be dramatic and it doesn’t sound as good if I don’t dangle the carrot for a bit first. So, for the sake of narrative, lets assume it really was tricky decision. Our first contender for the coveted top spot in my printed-papers tray was the delightfully titled [“Panorama of ancient macromolecular metazoan complexes”](http://www.nature.com/nature/journal/v525/n7569/full/nature14877.html); if anything I like this one because it cleverly managed to escape the use of “landscape”, and "panorama" just makes it sound that little bit more sophisticated. It’s a landscape… but wider! Developing this idea further, my next paper will be entitled “Vista of vestigial viral coat complexes”.
 
