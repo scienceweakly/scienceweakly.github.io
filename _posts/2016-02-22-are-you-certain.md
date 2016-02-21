@@ -33,7 +33,7 @@ If we carry out a BEST model on this data we don't just get single values for th
 
 If we were asked for the difference between the two groups, the typical response would be the difference between the two means or medians. However, since we're working with probability distributions in order to make our uncertainty clear, it's a bit pointless to sweep all that information regarding uncertainty under the rug. So for this we can calculate the difference between the two $\mu$ distributions to produce another distribution in order to show the difference between the two.
 
-![best](/bayes_cells.png)
+![best](/images/bayes_cells.png)
 
 ### The end of the t-test?
 
