@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Are you certain? A Bayesian method for simple A/B testing
