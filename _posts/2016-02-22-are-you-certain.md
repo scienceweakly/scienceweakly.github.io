@@ -18,21 +18,21 @@ I have the hypothesis that drug A makes cancer cells shrivel up so I treated lot
 
 We can get a quick idea of what the data looks like with a histogram of cell area.
 
-![cell area histogram](/images/2016-02-21-are-you-certain/Difference.png){: .center-image}
+![cell area histogram](/images/2016-02-21-are-you-certain/Difference.png)
 
 The standard response now would be to carry out a t-test and make a boxplot, so here's that...
 
-![boxplot](/images/2016-02-21-are-you-certain/boxplot.png){: .center-image}
+![boxplot](/images/2016-02-21-are-you-certain/boxplot.png)
 
-With a p value of $2.66 x10^{-86}$, this means that there's likely a differnce between the two groups, but that's all the information the t-test actually provides.
+With a p value of  \\( 2.66 x10^{-86} \\), this means that there's likely a differnce between the two groups, but that's all the information the t-test actually provides.
 
 **BEST**
 
-If we carry out a BEST model on this data we don't just get single values we get probability distributions for the mean ($\mu$) and standard deviation ($\sigma$), these distributions represent the uncertainty behind our beliefs, with the width of the distribution proportional to our uncertainty.
+If we carry out a BEST model on this data we don't just get single values we get probability distributions for the mean (\\( \mu \\)) and standard deviation (\\( \sigma \\)), these distributions represent the uncertainty behind our beliefs, with the width of the distribution proportional to our uncertainty.
 
 If we were asked for the difference between the two groups, the typical response would be the difference between the two means or medians. However, since we're working with probability distributions in order to make our uncertainty clear, it's a bit pointless to sweep all that information regarding uncertainty under the rug. So for this we can calculate the difference between the two $\mu$ distributions to produce another distribution in order to show the difference between the two.
 
-![best](/images/2016-02-21-are-you-certain/bayes_cells.png){: .center-image}
+![best](/images/2016-02-21-are-you-certain/bayes_cells.png)
 
 ### Is this the end of the t-test?
 
